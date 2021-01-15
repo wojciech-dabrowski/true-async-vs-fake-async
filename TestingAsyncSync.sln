@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingAsyncSync", "TestingAsyncSync\TestingAsyncSync.csproj", "{A2301412-41F8-46E9-B3C7-8A0200865821}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2301412-41F8-46E9-B3C7-8A0200865821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2301412-41F8-46E9-B3C7-8A0200865821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2301412-41F8-46E9-B3C7-8A0200865821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2301412-41F8-46E9-B3C7-8A0200865821}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
